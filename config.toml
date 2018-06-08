@@ -218,12 +218,12 @@ description = "mGearは、ジェレミー・パセリンがスタートさせ、
       ["icon-link", "http://www.jerome3d.be/"]
     ]
 
-# [[params.about.item]]
-#   name = "あなた？"
-#   position = "次のコラボレーター"
-#   description = "mGearのコミュニティーは、常に新しいコラボレーターに開発のお手伝いをしていただくべく、その門戸を開放しています。"
-#   img = "person1.jpg"
-#   alt = "Person1"
+[[params.about.item]]
+  name = "あなた？"
+  position = "次のコラボレーター"
+  description = "mGearのコミュニティーは、常に新しいコラボレーターに開発のお手伝いをしていただくべく、その門戸を開放しています。"
+  img = "person1.jpg"
+  alt = "Person1"
 
 
 # Counters section
