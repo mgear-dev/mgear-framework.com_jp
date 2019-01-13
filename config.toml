@@ -60,7 +60,7 @@ img = "img_7.jpg"
 [[params.intro.item]]
 title = "ドキュメンテーション"
 description = "API ドキュメンテーションとその例"
-url = "http://www.mgear-framework.com/mgear/"
+url = "http://www.mgear-framework.com/mgear_dist/"
 button = "Official Docs"
 icon = "icon-book-open"
 img = "img_8.jpg"
@@ -125,36 +125,15 @@ footertext = '** All images are copyright &copy; to their respective owners'
 
 # Testimonials section
 [params.testimonials]
-enable = false
+enable = true
 title = "Testimonials"
 # description = ""
 
 [[params.testimonials.item]]
-  quote = "&ldquo;Miquel did an amazing job making mGear a solid Production tool. I am delighted to see it running smoothly in Maya. Softimage User will be delighted to find their favorite Rig Builder in Maya. Maya user will be amazed how MGear is solid and flexible. Gear has been used in production all around the world since 2010 and changed the life of many riggers and animators, I have no doubt that mGear will have the same success. Do I need to mention it’s free and open source ?&rdquo;"
-  person = 'Jeremie Passerin, Technical Animation Supervisor at  <a href="http://www.blur.com/" target="_blank">Blur Studio</a> <span class="subtext">Technical Director</span>'
-  img = "jeremie_avatar.jpg"
-  alt = "Person2"
-
- [[params.testimonials.item]]
-  quote = "&ldquo;In our studio we  work on huge shows, and mgear has proven itself extremely reliable, fast and simple! The framework enables our riggers to keep iterate and improve even on the most complicated rigs very quickly, so we don't need to compromise on our animation quality..&rdquo;"
-  person = 'Lior Ben Horin, CG Supervisor at <a href="http://www.snowballvfx.com/	" target="_blank">Snowball Studios</a> <span class="subtext">Technical Artist</span>'
-  img = "Lior_logo.png"
-  alt = "Lior Ben Horin"
-
-  [[params.testimonials.item]]
-  quote = "&ldquo;Miquel did an absolutely stellar job in bringing what we loved about Gear in XSI to Maya with mGear. We look forward to every release as it just gets better and better with its on-going support. On our projects, the small rigging department is normally faced with a large number of unique characters to rig in a short space of time. mGear allows us to bring solid and time-tested rigs to our animators. mGear is our go-to solution for a fast and iterative rigging process. It's easy to learn and use and the potential of expanding Shifter with custom components using the mGear framework is an aspect we are very excited about.&rdquo;"
-  person = 'Marthinus Wessels, Character Supervisor at <a href="https://www.triggerfish.com/" target="_blank">Triggerfish Animation Studios</a> <span class="subtext">Character Animator</span>'
-  img = "marthinus_avatar.jpg"
-  alt = "Marthinus Wessels"
-
-  [[params.testimonials.item]]
-  quote = "&ldquo;We have been using mGear in the studio since switching to Maya and it has become an integral part of our 3d workflow. The speed we can get a rig to the animators whilst continuing to finesse and rebuild has been a real game changer.&rdquo;"
-  person = 'Adam Avery, Rigger at <a href="https://www.studioaka.co.uk/" target="_blank">Studio AKA</a> <span class="subtext">CG Artist</span>'
-  img = "www.studioaka.co.uk.png"
-  alt = "Adam Avery"
-
-
-
+  quote = "&ldquo;私たちはMayaに切り替えてからHumanIKを使用していました。しかし、多関節や複雑な構造のキャラクタに対応出来なくて困っていたところにmGearに出会いました。簡単にセットアップが出来るため全身だけでなく、Riggerに頼ること無く、アニメーターが必要な部分にだけセットアップできるなど多様性があり、終盤の忙しい時期には大変助かりました。セットアップのTry&Errorを繰り返す事が容易に出来るため、リギングに時間を取られる事無くアニメーションの品質を高める事に集中できます&rdquo;"
+  person = 'Hiroyuki Abe,  Lead Character Animator at SegaGames  <a href="https://sega-games.co.jp/" target="_blank">SegaGames</a> <span class="subtext">Lead Character Animator</span>'
+  img = "sega.png"
+  alt = "Hiroyuki Abe"
 
 # Services section
 [params.services]
@@ -290,7 +269,7 @@ button = "送信"
 # Footer section
 [params.footer]
 enable = true
-copyright = '&copy; 2011-2018 Jeremie Passerin and Miquel Campos. 2018 The mGear Dev Organization. All Rights Reserved.'
+copyright = '&copy; 2011-2018 Jeremie Passerin and Miquel Campos. 2018-2019 The mGear Dev Organization. All Rights Reserved.'
 links = [
         ["icon-youtube", "https://www.youtube.com/c/mgearriggingframework"],
         ["icon-social-github", "https://github.com/mgear-dev"]
