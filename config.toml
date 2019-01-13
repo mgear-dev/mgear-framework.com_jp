@@ -68,7 +68,7 @@ img = "img_8.jpg"
 [[params.intro.item]]
 title = "使ってみよう！"
 description = 'mGear無料のオープンソースですが、<a href="https://dons.medecinsdumonde.org/b/my-donation" target="_blank">Medecins du Monde</a>への寄付のご協力をお願いいたしております。'
-url = "https://github.com/mgear-dev/mgear/releases"
+url = "https://github.com/mgear-dev/mgear_dist/releases"
 button = "ダウンロード"
 icon = "icon-cloud-download"
 img = "img_10.jpg"
